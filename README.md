@@ -4,8 +4,7 @@
 Project developed with a thermal printer and receipt paper, incorporating a text by Jack Halberstam from The Queer Art of Failure together with personal reflections. The work investigates the intersections between digital art, programming, and analog printmaking, imagining the connections between digital pixels and the screen-printing grid, while integrating the notions of glitch and error both in reality and in virtuality. It is programmed to randomly select and print fragments of text and reflections, altering their sequence and output with each code execution.
 
 texts:
-
-
+        "a": r"""
                 Pero aunque su fracaso puede ser fuente de
 
 desgracia y de humillación, y aunque de hecho provoca precisamente esto, tam-
@@ -44,7 +43,8 @@ imposible, de crítica y rechazo.
  *#% J %$%%#|#$#$ J\%   *   .--|(_)
  |%  J\ `%%#|#%%' / `.   _.'   |L|
  |#$%||` %%%$### '|   `-'      |L|
- 
+"""        ,
+        "b": """
         thankfully everything is a glich in the matrix if 
     you think about it
       -----
@@ -74,8 +74,8 @@ Y aunque es cierto que el fracaso viene acompañado de un conjunto de afectos
 negativos, como la decepción, la desilusión y la desesperación, también nos da
 
 la oportunidad de utilizar esos afectos negativos para crear agujeros en la positi-
-vidad tóxica de la vida contemporánea.
-       --}
+vidad tóxica de la vida contemporánea.""", 
+        "c": """--}
 ▓▓▓▓▓▒▓▓ ░ ▓▒▒██▓    █▓██
         ░▒ ░▒ ░░        ░░▓░▒▒█████  █▓██
 ██▓▒▒░ los errores inspiran poeticas▒▓▓▓█▓▓▒█▒▒
@@ -96,10 +96,11 @@ no son «mujeres», y si las lesbianas no son «mujeres», quedan fuera de las n
 mas patriarcales y pueden así recrear algunos de los sentidos de sus géneros.
   
 
-
+--»
 --
 fail-to-be
-
+""",
+        "d": r"""
         fail-to-be
     normative
 --
@@ -112,8 +113,9 @@ jgs   `-=.=-.-=.=-'    \ /\
 THE grid we share has room for every glich
 ░  
 
-ERROR MESAGE ERROR MESAGE
-        
+""",
+        "e": "ERROR MESAGE ERROR MESAGE",
+        "f": r"""
                                              .*}~                   
                                         :>]-                
                          .~**~.            +}~              
@@ -218,8 +220,7 @@ ERROR MESAGE ERROR MESAGE
                          :*(#@@@@@@%)~.                     
                               .=({@@@@@@[*-.                
                                     :)%@@@@@@{*:.           
-                                    
+                                    """
+    }
     
-   
-    return texto_seleccionado + "\n"
-
+    
