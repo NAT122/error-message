@@ -1,5 +1,3 @@
-                                                    
-                                                                        -+..   .:*%=.                                        
 
 Project developed with a thermal printer and receipt paper, incorporating a text by Jack Halberstam from The Queer Art of Failure together with personal reflections. The work investigates the intersections between digital art, programming, and analog printmaking, imagining the connections between digital pixels and the screen-printing grid, while integrating the notions of glitch and error both in reality and in virtuality. It is programmed to randomly select and print fragments of text and reflections, altering their sequence and output with each code execution.
 
