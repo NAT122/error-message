@@ -1,37 +1,4 @@
-                                                              <img width="1108" height="372" alt="ascii-art (2)" src="https://github.com/user-attachments/assets/9479f4ef-0f1f-4472-8ab2-9b08a206dae6" />
-
-                          .-@@=.   .%-    .*@%.+: .#@%.  .#@#.+- .@@%:    :%@+.     :#.     .#@#.+:  @@#.                                                               
-                         .#@%.    .*%:    -@@:+.  ..:.  .=@@-=.   .:.   .#@%:       :@-    .=@@-=.   .:..                                                               
-                        .%@#   ..=%*.    .@@*=          .%@*+          .#@%.        :@-    :@@=+.                                                                       
-                       .#@@*++++=:.     .#@@-.         .*@@-          .+@@:         +#:    %@@-                                                                         
-                       =@@=.           .+@@=.          -@@-.          :@@*         .@*.   +@@-.                                                                         
-                      .#@%:            -@@+           :%@+            =@@.        .%#.   :%@+.                                                                          
-                      .#@#.          .+#@#           .*@%.            #@@.       .#*    .*@%.                                                                           
-                       *@#.        .:+-@@:           -@@.            .-@%.     ..@=. ...-@@.                                                                            
-                       .*@=.    .:==.:@@=.          .@@=            :%@#@:   .:#+.  .=@%@@-                                                                             
-            .*#=  .-##=. .-+####%*: .:-:.           :#%*:          .*#...=##*-...   :@=:-:.            .+##:. =#*.            ..=##-..-##.         ..+##-.              
-           .*@%.:+.  .-@+  .-=.  .+@-           .=@%:.  :%:       .+#-            .-#%:           ..=@%-.  .%-@@:          .=@%=.  .#:%@:       .-%@+.. .%-             
-           :@@-=..    :%@.:=.     -@*.        .=@@=.    =@-      -+.*@           .=:.%-.          *@@-.     +%@=         .+@@-.     +%@+.      .%@+.    -@=             
-           #@**.      -@@:-.     .%@*         +@@.    .*@-     .=-. :%=          *. .=@.        :%@#.       %@#.        :%@%.       *@#:      =@@=.    -@=              
-          +@@+       .#@%-      .=@@-       .+@@: ..-+#-.     .=:   .%%.      .-+    =@=       :@@#.       -@@-.       :@@%.       -@@=     .-@@+. .-+#+..              
-         -@@=.       =@@:       :%@*        =@@+--::..       :#:    .%@*     .=*.    =@@.      @@@.       :%@#.        @@%.       .#@*.     .%@%--::...                 
-        .#@*.       :@@-.       *@%       .:%@%.            =@@#    .%@*    .@@@.    -@@.     #@@:       .*@@.       .#@@-.       *@@.      +@@:            .*.         
-       .+@@.       .%@*.       :@@:       :+%@#            :#..     .%@*   .#...     =@@.     @@+.      .#@@:       .=@@#.      .*@@-       #@%.           .=.          
-       :@@:       .+@@.        %@=.      --.#@*          .+*.       -@@:   .+       .=@#.    .@@=.     :=:@*.      .*:%@+.     .+#@+.       #@*.          :+..          
-      .%@+.       :%@-        .%@-     .=. .*@#.       .-=.:+      :#@:    .%.      =@*.      @%-    .=-.:@=.    .=-..%@-    .-=+@%:        :@%.       .:+.             
-      +@%:        #@*          .##:..-+:.   .-%#-...:++-.  .-+:..-#%-.      .+=...=%*:.       :@#:.-+-.  .+@+..-*-..  :@#:.:+-.:%@-         .:#%=....=+-..              
-                                  ...           ....           ...             ...              ...         ....        ...   .*@*              ....                    
-                                                                                                                    ..        -@%.                                      
-                                                                                                                   #@#.      -@#:.                                      
-                                                                                                                   -+..   .:*%=.                                        
-
-
-
-
-
-
-
-
+                                                              <img width="1108" height="372" alt="ascii-art (2)" src="https://github.com/user-attachments/assets/9479f4ef-0f1f-4472-8ab2-9b08a206dae6" />                      
 
 
 Project developed with a thermal printer and receipt paper, incorporating a text by Jack Halberstam from The Queer Art of Failure together with personal reflections. The work investigates the intersections between digital art, programming, and analog printmaking, imagining the connections between digital pixels and the screen-printing grid, while integrating the notions of glitch and error both in reality and in virtuality. It is programmed to randomly select and print fragments of text and reflections, altering their sequence and output with each code execution.
