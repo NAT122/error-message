@@ -83,7 +83,7 @@ vidad tóxica de la vida contemporánea."
       
 ████▓░░░░ ░ ░░░ ░░ ▒░▒█▓▓   █▓▓░ ░░░░ 
 los errores inspiran poeticas
-"
+
 
 "Desde la perspectiva del feminismo, el fracaso ha sido a menudo una mejor
 apuesta que el éxito. Aunque el éxito femenino es siempre medido por criterios
@@ -96,7 +96,7 @@ mujer depende de un marco de referencia heterosexual, entonces las lesbianas
 no son «mujeres», y si las lesbianas no son «mujeres», quedan fuera de las nor-
 mas patriarcales y pueden así recrear algunos de los sentidos de sus géneros"
   
-"
+
 fail-to-be
 "
 "fail-to-be normative"
@@ -112,7 +112,7 @@ THE grid we share has room for every glich"
 
 "ERROR MESAGE ERROR MESAGE"
 
- "f": r"""
+"
                                              .*}~                   
                                         :>]-                
                          .~**~.            +}~              
@@ -218,6 +218,6 @@ THE grid we share has room for every glich"
                               .=({@@@@@@[*-.                
                                     :)%@@@@@@{*:.           
                                     """
-    }      
+     
 
     
