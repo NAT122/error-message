@@ -112,8 +112,8 @@ THE grid we share has room for every glich"
 
 "ERROR MESAGE ERROR MESAGE"
 
-        
-"                                             .*}~                   
+ "f": r"""
+                                             .*}~                   
                                         :>]-                
                          .~**~.            +}~              
                        .=%[[{%@}-            ^].            
@@ -217,7 +217,7 @@ THE grid we share has room for every glich"
                          :*(#@@@@@@%)~.                     
                               .=({@@@@@@[*-.                
                                     :)%@@@@@@{*:.           
-                                    "
-   
-    
+                                    """
+    }      
+
     
